@@ -4,6 +4,7 @@
 </script>
 
 <main>
+<img src={'logo'} alt="logo picture"/>
  <Navbar />
 </main>
 
